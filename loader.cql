@@ -13,9 +13,3 @@ ON CREATE SET r.cost = toInteger(row.cost)
 ON CREATE SET r.equipment = row.equipment
 return s,r,d;
 
-//First Loader - IGNORE
-CREATE CONSTRAINT ON (a:airport) ASSERT a.airport_id IS UNIQUE;
-USING PERIODIC COMMIT 10 LOAD CSV WITH HEADERS FROM "file:///aircode.csv" AS line FIELDTERMINATOR ';'
-MERGE (a:airport {airport_id:line.airport_id})
-return a;
-
