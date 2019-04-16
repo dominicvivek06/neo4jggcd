@@ -1,0 +1,115 @@
+airport_id;icao;airport;city;lat;long;altitude;timezone
+AMD;VAAH;Sardar Vallabhbhai Patel International Airport;Ahmedabad;23.07719994;72.63469696;189;5.5
+AKD;VAAK;Akola Airport;Akola;20.698999;77.058601;999;5.5
+IXU;VAAU;Aurangabad Airport;Aurangabad;19.86269951;75.39810181;1911;5.5
+BOM;VABB;Chhatrapati Shivaji International Airport;Mumbai;19.08869934;72.86789703;39;5.5
+PAB;VABI;Bilaspur Airport;Bilaspur;21.9884;82.111;899;5.5
+BHJ;VABJ;Bhuj Airport;Bhuj;23.28779984;69.67019653;268;5.5
+IXG;VABM;Belgaum Airport;Belgaum;15.85929966;74.61830139;2487;5.5
+BDQ;VABO;Vadodara Airport;Baroda;22.336201;73.226303;129;5.5
+BHO;VABP;Raja Bhoj International Airport;Bhopal;23.28750038;77.33740234;1711;5.5
+BHU;VABV;Bhavnagar Airport;Bhaunagar;21.75219917;72.18520355;44;5.5
+NMB;VADN;Daman Airport;Daman;20.43440056;72.84320068;33;5.5
+GUX;VAGN;Guna Airport;Guna;24.654699;77.347298;1600;5.5
+GOI;VAGO;Dabolim Airport;Goa;15.38080025;73.83139801;150;5.5
+IDR;VAID;Devi Ahilyabai Holkar Airport;Indore;22.72179985;75.80110168;1850;5.5
+JLR;VAJB;Jabalpur Airport;Jabalpur;23.17779922;80.05200195;1624;5.5
+JGA;VAJM;Jamnagar Airport;Jamnagar;22.46549988;70.01260376;69;5.5
+IXY;VAKE;Kandla Airport;Kandla;23.11269951;70.10030365;96;5.5
+HJR;VAKJ;Khajuraho Airport;Khajuraho;24.81719971;79.91860199;728;5.5
+KLH;VAKP;Kolhapur Airport;Kolhapur;16.66469955;74.28939819;1996;5.5
+IXK;VAKS;Keshod Airport;Keshod;21.31710052;70.270401;167;5.5
+NAG;VANP;Dr. Babasaheb Ambedkar International Airport;Nagpur;21.09219933;79.04720306;1033;5.5
+ISK;VAOZ;Nashik Airport;Nasik Road;20.119101;73.912903;1900;5.5
+PNQ;VAPO;Pune Airport;Pune;18.58209991;73.91970062;1942;5.5
+PBD;VAPR;Porbandar Airport;Porbandar;21.64870071;69.65720367;23;5.5
+RAJ;VARK;Rajkot Airport;Rajkot;22.30920029;70.77950287;441;5.5
+RPR;VARP;Raipur Airport;Raipur;21.180401;81.7388;1041;5.5
+SSE;VASL;Solapur Airport;Sholapur;17.62800026;75.93479919;1584;5.5
+STV;VASU;Surat Airport;Surat;21.1140995;72.7417984;16;5.5
+UDR;VAUD;Maharana Pratap Airport;Udaipur;24.61770058;73.89610291;1684;5.5
+IXV;VEAN;Along Airport;Along;28.1753006;94.80200195;900;5.5
+IXA;VEAT;Agartala Airport;Agartala;23.88699913;91.24040222;46;5.5
+AJL;VELP;Lengpui Airport;Aizwal;23.84059906;92.61969757;1398;5.5
+IXB;VEBD;Bagdogra Airport;Baghdogra;26.68120003;88.32859802;412;5.5
+BBI;VEBS;Biju Patnaik Airport;Bhubaneswar;20.24440002;85.81780243;138;5.5
+CCU;VECC;Netaji Subhash Chandra Bose International Airport;Kolkata;22.65469933;88.44670105;16;5.5
+COH;VECO;Cooch Behar Airport;Cooch-behar;26.33049965;89.46720123;138;5.5
+DBD;VEDB;Dhanbad Airport;Dhanbad;23.83399963;86.4253006;847;5.5
+GAY;VEGY;Gaya Airport;Gaya;24.74430084;84.95120239;380;5.5
+IMF;VEIM;Imphal Airport;Imphal;24.76000023;93.896698;2540;5.5
+IXW;VEJS;Sonari Airport;Jamshedpur;22.8132;86.1688;475;5.5
+JRH;VEJT;Jorhat Airport;Jorhat;26.73150063;94.17549896;311;5.5
+IXH;VEKR;Kailashahar Airport;Kailashahar;24.30820084;92.00720215;79;5.5
+IXS;VEKU;Silchar Airport;Silchar;24.91290092;92.97869873;352;5.5
+IXI;VELR;North Lakhimpur Airport;Lilabari;27.2954998;94.09760284;330;5.5
+DIB;VEMN;Dibrugarh Airport;Mohanbari;27.48390007;95.01689911;362;5.5
+MZU;VEMZ;Muzaffarpur Airport;Mazuffarpur;26.11910057;85.31369781;174;5.5
+PAT;VEPT;Lok Nayak Jayaprakash Airport;Patina;25.59129906;85.08799744;170;5.5
+IXR;VERC;Birsa Munda Airport;Ranchi;23.31430054;85.32170105;2148;5.5
+RRK;VERK;Rourkela Airport;Rourkela;22.256701;84.814598;659;5.5
+VTZ;VEVZ;Vishakhapatnam Airport;Vishakhapatnam;17.72120094;83.22450256;15;5.5
+ZER;VEZO;Ziro Airport;Zero;27.588301;93.828102;5403;5.5
+AGR;VIAG;Agra Airport;Agra;27.15579987;77.96089935;551;5.5
+IXD;VIAL;Allahabad Airport;Allahabad;25.44009972;81.73390198;322;5.5
+ATQ;VIAR;Sri Guru Ram Dass Jee International Airport;Amritsar;31.70960045;74.79730225;756;5.5
+BKB;VIBK;Nal Airport;Bikaner;28.07060051;73.2071991;750;5.5
+VNS;VIBN;Lal Bahadur Shastri Airport;Varanasi;25.45240021;82.85929871;266;5.5
+KUU;VIBR;Kullu Manali Airport;Kulu;31.87669945;77.15440369;3573;5.5
+BUP;VIBT;Bhatinda Air Force Station;Bhatinda;30.27009964;74.75579834;662;5.5
+BEK;VIBY;Bareilly Air Force Station;Bareilly;28.42210007;79.45079803;580;5.5
+IXC;VICG;Chandigarh Airport;Chandigarh;30.67350006;76.78849792;1012;5.5
+KNU;VICX;Kanpur Airport;Kanpur;26.404301;80.410103;410;5.5
+DED;VIDN;Dehradun Airport;Dehra Dun;30.189699;78.180298;1831;5.5
+DEL;VIDP;Indira Gandhi International Airport;Delhi;28.5665;77.103104;777;5.5
+GWL;VIGR;Gwalior Airport;Gwalior;26.29330063;78.22779846;617;5.5
+HSS;VIHR;Hissar Airport;Hissar;29.17939949;75.75530243;700;5.5
+JDH;VIJO;Jodhpur Airport;Jodhpur;26.25110054;73.04889679;717;5.5
+JAI;VIJP;Jaipur International Airport;Jaipur;26.8242;75.812202;1263;5.5
+JSA;VIJR;Jaisalmer Airport;Jaisalmer;26.88870049;70.86499786;751;5.5
+IXJ;VIJU;Jammu Airport;Jammu;32.68909836;74.83740234;1029;5.5
+KTU;VIKO;Kota Airport;Kota;25.16020012;75.84559631;896;5.5
+LUH;VILD;Ludhiana Airport;Ludhiaha;30.85470009;75.95259857;834;5.5
+IXL;VILH;Leh Kushok Bakula Rimpochee Airport;Leh;34.13589859;77.54650116;10682;5.5
+LKO;VILK;Chaudhary Charan Singh International Airport;Lucknow;26.76059914;80.88929749;410;5.5
+IXP;VIPK;Pathankot Airport;Pathankot;32.233611;75.634444;1017;5.5
+PGH;VIPT;Pantnagar Airport;Nainital;29.03339958;79.47370148;769;5.5
+SXR;VISR;Sheikh ul Alam Airport;Srinagar;33.98709869;74.77420044;5429;5.5
+TNI;VIST;Satna Airport;Satna;24.5623;80.854897;1060;5.5
+AGX;VOAT;Agatti Airport;Agatti Island;10.82369995;72.1760025;14;5.5
+BLR;VOBL;Kempegowda International Airport;Bangalore;13.1979;77.706299;3000;5.5
+BEP;VOBI;Bellary Airport;Bellary;15.16279984;76.88279724;30;5.5
+VGA;VOBZ;Vijayawada Airport;Vijayawada;16.53039932;80.79679871;82;5.5
+CJB;VOCB;Coimbatore International Airport;Coimbatore;11.02999973;77.04340363;1324;5.5
+COK;VOCI;Cochin International Airport;Kochi;10.152;76.401901;30;5.5
+CCJ;VOCL;Calicut International Airport;Calicut;11.13679981;75.95529938;342;5.5
+CDP;VOCP;Kadapa Airport;Cuddapah;14.51;78.772778;430;5.5
+CBD;VOCX;Car Nicobar Air Force Station;Carnicobar;9.152509689;92.81960297;5;5.5
+BPM;VOHY;Begumpet Airport;Hyderabad;17.4531002;78.46759796;1742;5.5
+IXM;VOMD;Madurai Airport;Madurai;9.83450985;78.09339905;459;5.5
+IXE;VOML;Mangalore International Airport;Mangalore;12.9612999;74.89009857;337;5.5
+MAA;VOMM;Chennai International Airport;Madras;12.99000549;80.16929626;52;5.5
+IXZ;VOPB;Vir Savarkar International Airport;Port Blair;11.64120007;92.72969818;14;5.5
+PNY;VOPC;Pondicherry Airport;Pendicherry;11.968;79.812;134;5.5
+RJA;VORY;Rajahmundry Airport;Rajahmundry;17.11039925;81.81819916;151;5.5
+SXV;VOSM;Salem Airport;Salem;11.7833004;78.06559753;1008;5.5
+TJV;VOTJ;Tanjore Air Force Base;Tanjore;10.72239971;79.10160065;253;5.5
+TIR;VOTP;Tirupati Airport;Tirupeti;13.63249969;79.54329681;350;5.5
+TRZ;VOTR;Tiruchirapally Civil Airport Airport;Tiruchirappalli;10.76539993;78.70970154;288;5.5
+TRV;VOTV;Trivandrum International Airport;Trivandrum;8.48211956;76.92009735;15;5.5
+DIU;VA1P;Diu Airport;Diu;20.71310043;70.9210968;31;5.5
+HBX;VAHB;Hubli Airport;Hubli;15.36170006;75.0848999;2171;5.5
+SHL;VEBI;Shillong Airport;Shillong;25.70359993;91.97869873;2910;5.5
+GAU;VEGT;Lokpriya Gopinath Bordoloi International Airport;Guwahati;26.10610008;91.58589935;162;5.5
+DMU;VEMR;Dimapur Airport;Dimapur;25.88389969;93.77110291;487;5.5
+TEZ;VETZ;Tezpur Airport;Tezpur;26.70910072;92.78469849;240;5.5
+GOP;VEGK;Gorakhpur Airport;Gorakhpur;26.73970032;83.4496994;259;5.5
+DHM;VIGG;Kangra Airport;Kangra;32.1651001;76.26339722;2525;5.5
+NDC;VAND;Nanded Airport;Nanded;19.18330002;77.3167038;1250;5.5
+SLV;VISM;Shimla Airport;Shimla;31.0818;77.068001;5072;5.5
+MYQ;VOMY;Mysore Airport;Mysore;12.23;76.655833;2349;5.5
+IXT;VEPG;Pasighat Airport;Pasighat;28.06609917;95.33560181;477;5.3
+HYD;VOHS;Rajiv Gandhi International Airport;Hyderabad;17.23131752;78.42985535;2024;5.5
+AIP;VIAX;Adampur Airport;Adampur;31.4338;75.758797;775;5.5
+SAG;VASD;Shirdi Airport;Shirdi;19.688611;74.378889;1926;5.5
+PYB;VEJP;Jeypore Airport;Jeypore;18.87999916;82.55200195;1952;5.5
