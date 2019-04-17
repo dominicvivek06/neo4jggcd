@@ -21,5 +21,5 @@
 * Difference between RDBMS and Neo4j
 * Demo
 
-###### Pic
+###### Pics
 * Pictures from the event.
